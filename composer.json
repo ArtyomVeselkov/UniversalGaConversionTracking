@@ -1,0 +1,9 @@
+{
+    "name": "merchantprotocol/universal-ga-conversion-tracking",
+    "type": "magento-module",
+    "homepage": "https://github.com/merchantprotocol/UniversalGaConversionTracking",
+    "description": "Universal GA Conversion Track",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
